@@ -1,1 +1,1 @@
-# Curso-B-sico-SQL
+# CursoBasicoSQL
